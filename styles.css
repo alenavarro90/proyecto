@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    border: none;
+}
+#titulo{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 2em;
+    color: #00214D;
+}
+
+.imagen{
+    width: 100vw;
+}
+img{
+    width: 100vw;
+    vertical-align: middle;
+}
+.compra{
+    background-color: #00214D;
+    color: white;
+    border-radius: 5px;
+    width: 7em;
+    height: 2em;
+}
+.links{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 5em;
+    align-items: center;
+    
+}
+.carrito{
+    
+    height: 2em;
+}
