@@ -6,21 +6,19 @@
   font-family: "Poppins", sans-serif;
 }
 
-
 .contenedor {
   width: 100%;
   display: flex;
   flex-direction: column;
-
 }
-.banner{
-    background-image: url("/images/banner_biblioteca_large.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+.banner {
+  background-image: url("./images/banner_biblioteca_large.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.texto-banner{
-    width: 50%;
-    height: 50%;
+.texto-banner {
+  width: 50%;
+  height: 50%;
 }
 
 .titulo {
@@ -99,39 +97,39 @@ img {
     gap: 1rem;
   }
 }
-.dato-libro{
-    text-align: center;
-    border-bottom: 3em solid white;
+.dato-libro {
+  text-align: center;
+  border-bottom: 3em solid white;
 }
-.editorial{
-    border-left: 8vw solid white;
+.editorial {
+  border-left: 8vw solid white;
 }
-.tematica{
-    border-left: 8vw solid white;
+.tematica {
+  border-left: 8vw solid white;
 }
-.fecha{
-    border-left: 8vw solid white;
+.fecha {
+  border-left: 8vw solid white;
 }
-.resumen{
-    border-left: 8vw solid white
+.resumen {
+  border-left: 8vw solid white;
 }
-.formato{
-    border-left: 8vw solid white
+.formato {
+  border-left: 8vw solid white;
 }
-.isbn{
-    border-left: 8vw solid white
+.isbn {
+  border-left: 8vw solid white;
 }
-.genero-padre{
-    border-top: 5em solid white;
-    display: flex;
-    width: 100%;
+.genero-padre {
+  border-top: 5em solid white;
+  display: flex;
+  width: 100%;
 }
-.genero-autor{
-    width: 50%;
+.genero-autor {
+  width: 50%;
 }
-.imagen-autor{
-    width: 50%;   
+.imagen-autor {
+  width: 50%;
 }
-.imagen-autor-libro{
-    width: 100%;
+.imagen-autor-libro {
+  width: 100%;
 }
